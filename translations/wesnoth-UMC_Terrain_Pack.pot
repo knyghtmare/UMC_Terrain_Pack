@@ -1,0 +1,1294 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2021-07-15 19:46 UTC\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [terrain_type]: id=UTP_dp_smoke2
+#. [terrain_type]: id=UTP_bmr_icecave
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:8
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:758
+msgid "Cave"
+msgstr ""
+
+#. [terrain_type]: id=UTP_dp_smoke2
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:9
+msgid "Foggy Smoke"
+msgstr ""
+
+#. [terrain_type]: id=UTP_tri_brazier
+#. [terrain_type]: id=UTP_tri_brazier_blue
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:19
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:29
+msgid "Lit Brazier"
+msgstr ""
+
+#. [terrain_type]: id=UTP_tri_brazier2
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:39
+msgid "Brazier"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_sand_dark
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:53
+msgid "Sand"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_sand_dark
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:54
+msgid "Dark Sands"
+msgstr ""
+
+#. [terrain_type]: id=UTP_deep_water_black
+#. [terrain_type]: id=UTP_deep_water_cave
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:63
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:855
+msgid "Deep Water"
+msgstr ""
+
+#. [terrain_type]: id=UTP_deep_water_black
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:64
+msgid "Black Deep Water"
+msgstr ""
+
+#. [terrain_type]: id=UTP_black_tropical_water
+#. [terrain_type]: id=UTP_shallow_water_cave
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:74
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:867
+msgid "Shallow Water"
+msgstr ""
+
+#. [terrain_type]: id=UTP_black_tropical_water
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:75
+msgid "Black Shallow Water"
+msgstr ""
+
+#. [terrain_type]: id=UTP_black_reef
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:85
+msgid "Coastal Reef"
+msgstr ""
+
+#. [terrain_type]: id=UTP_black_reef
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:86
+msgid "Black Coastal Reef"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmrtree
+#. [terrain_type]: id=UTP_tropical_forest_old
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:97
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:703
+msgid "Forest"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmrtree
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:98
+msgid "Dead Forest"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_fountain
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:108
+msgid "City Fountain"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_gate_east
+#. [terrain_type]: id=UTP_bmr_gate_west
+#. [terrain_type]: id=UTP_tri_gate_east
+#. [terrain_type]: id=UTP_tri_gate_west
+#. [terrain_type]: id=UTP_tri_gate_east2
+#. [terrain_type]: id=UTP_tri_gate_west2
+#. [terrain_type]: id=UTP_overlay-gate-se
+#. [terrain_type]: id=UTP_overlay-gate-sw
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:119
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:130
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:163
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:174
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:185
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:196
+#: UMC_Terrain_Pack/utils/IftU/terrain-virtual.cfg:33
+#: UMC_Terrain_Pack/utils/IftU/terrain-virtual.cfg:42
+msgid "Gate"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_open_gate_east
+#. [terrain_type]: id=UTP_bmr_open_gate_west
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:141
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:152
+msgid "Open Gate"
+msgstr ""
+
+#. [terrain_type]: id=UTP_Tundra
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:207
+msgid "Tundra"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_mlamp
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:217
+msgid "Marble Lamp"
+msgstr ""
+
+#. [terrain_type]: id=UTP_dp_floor
+#. [terrain_type]: id=UTP_bmr_city
+#. [terrain_type]: id=UTP_sandstones_dark
+#. [terrain_type]: id=UTP_strat_road_1
+#. [terrain_type]: id=UTP_strat_road_2
+#. [terrain_type]: id=UTP_strat_road_3
+#. [terrain_type]: id=UTP_strat_river_2
+#. [terrain_type]: id=UTP_strat_river_3
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:229
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:239
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:216
+#: UMC_Terrain_Pack/utils/Strat/terrain.cfg:91
+#: UMC_Terrain_Pack/utils/Strat/terrain.cfg:99
+#: UMC_Terrain_Pack/utils/Strat/terrain.cfg:107
+#: UMC_Terrain_Pack/utils/Strat/terrain.cfg:123
+#: UMC_Terrain_Pack/utils/Strat/terrain.cfg:131
+msgid "Road"
+msgstr ""
+
+#. [terrain_type]: id=UTP_dp_floor
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:230
+msgid "Floor Tile"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_city
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:240
+msgid "Marble Bricks"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_city2
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:251
+msgid "Marble Structure"
+msgstr ""
+
+#. [terrain_type]: id=UTP_m_stairsn
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:263
+msgid "Marble Stairs"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_city3
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:274
+msgid "Marble Dome"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_mbwalls
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:283
+msgid "Marble Wall"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_mbvilla
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:292
+msgid "Villa"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_mbvilla
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:293
+msgid "Marble Villa"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_primetile
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:305
+msgid "Odd Plate"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_primegrid
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:316
+msgid "Odd Grid"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_steel
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:327
+msgid "Steel Plate"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_darksteel
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:337
+msgid "Dark Steel Plate"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_darksteel_heals
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:347
+msgid "Dark Steel Panel"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_darksteel1
+#. [terrain_type]: id=UTP_bmr_darksteel1x
+#. [terrain_type]: id=UTP_bmr_darksteel1xb
+#. [terrain_type]: id=UTP_bmr_darksteel1b
+#. [terrain_type]: id=UTP_arajunnan_bridge
+#. [terrain_type]: id=UTP_arajunnan_bridgediag1
+#. [terrain_type]: id=UTP_arajunnan_bridgediag2
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:359
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:371
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:383
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:395
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:100
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:112
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:124
+msgid "Bridge"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_darksteel1
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:360
+msgid "Dark Steel Bridge \\ "
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_darksteel1x
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:372
+msgid "Dark Steel Bridge \\ Closed"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_darksteel1xb
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:384
+msgid "Dark Steel Bridge / Closed"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_darksteel1b
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:396
+msgid "Dark Steel Bridge / "
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_darksteel2
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:407
+msgid "Dark Steel Clutter"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_brick
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:418
+msgid "Light Stone Blocks"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_brickd
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:428
+msgid "Dark Stone Blocks"
+msgstr ""
+
+#. [terrain_type]: id=UTP_Drift
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:440
+msgid "Snow Drift"
+msgstr ""
+
+#. [terrain_type]: id=UTP_thin_ice
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:453
+msgid "Thin Ice"
+msgstr ""
+
+#. [terrain_type]: id=UTP_troll_camp
+#. [terrain_type]: id=UTP_troll_camp_snow
+#. [terrain_type]: id=UTP_troll_campwater
+#. [terrain_type]: id=UTP_camp_sunken
+#. [terrain_type]: id=UTP_aquatic_camp
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:462
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:487
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:537
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:561
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:588
+msgid "Encampment"
+msgstr ""
+
+#. [terrain_type]: id=UTP_troll_camp
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:463
+msgid "Troll Encampment"
+msgstr ""
+
+#. [terrain_type]: id=UTP_troll_keep
+#. [terrain_type]: id=UTP_troll_keep_snow
+#. [terrain_type]: id=UTP_troll_campswamp
+#. [terrain_type]: id=UTP_troll_keepswamp
+#. [terrain_type]: id=UTP_troll_keepwater
+#. [terrain_type]: id=UTP_aquatic_camp_keep
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:474
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:499
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:512
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:524
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:550
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:601
+msgid "Encampment Keep"
+msgstr ""
+
+#. [terrain_type]: id=UTP_troll_keep
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:475
+msgid "Troll Encampment Keep"
+msgstr ""
+
+#. [terrain_type]: id=UTP_troll_camp_snow
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:488
+msgid "Snowy Troll Encampment"
+msgstr ""
+
+#. [terrain_type]: id=UTP_troll_keep_snow
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:500
+msgid "Snowy Troll Encampment Keep"
+msgstr ""
+
+#. [terrain_type]: id=UTP_troll_campswamp
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:513
+msgid "Swamp Troll Encampment"
+msgstr ""
+
+#. [terrain_type]: id=UTP_troll_keepswamp
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:525
+msgid "Swamp Troll Encampment Keep"
+msgstr ""
+
+#. [terrain_type]: id=UTP_troll_campwater
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:538
+msgid "Sunken Troll Encampment"
+msgstr ""
+
+#. [terrain_type]: id=UTP_troll_keepwater
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:551
+msgid "Sunken Troll Encampment Keep"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_primekeep
+#. [terrain_type]: id=UTP_bmr_primecastle
+#. [terrain_type]: id=UTP_metal_keep
+#. [terrain_type]: id=UTP_bmr_despair_keep
+#. [terrain_type]: id=UTP_dark_keep
+#. [terrain_type]: id=UTP_crystal_keep
+#. [terrain_type]: id=UTP_brick_keep
+#. [terrain_type]: id=UTP_aquatic_keep
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:566
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:579
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:645
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:685
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:201
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:277
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:410
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:627
+msgid "Keep"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_primekeep
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:567
+msgid "Primeval Keep"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_primecastle
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:580
+msgid "Primeval Castle"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_marble_castle1
+#. [terrain_type]: id=UTP_bmr_marble_keep1
+#. [terrain_type]: id=UTP_metal_castle
+#. [terrain_type]: id=UTP_bmr_despair_castle
+#. [terrain_type]: id=UTP_dark_castle
+#. [terrain_type]: id=UTP_crystal_castle
+#. [terrain_type]: id=UTP_brick_castle
+#. [terrain_type]: id=UTP_aquatic_castle
+#. [terrain_type]: id=UTP_strat_castle
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:593
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:605
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:659
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:673
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:189
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:265
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:398
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:614
+#: UMC_Terrain_Pack/utils/Strat/terrain.cfg:81
+msgid "Castle"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_marble_castle1
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:594
+msgid "Marble Castle"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_marble_keep1
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:606
+msgid "Marble Keep"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_marble_castle
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:620
+msgid "Ruined Castle"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_marble_castle
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:621
+msgid "Ruined Marble Castle"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_marble_keep
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:632
+msgid "Ruined Keep"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_marble_keep
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:633
+msgid "Ruined Marble Keep"
+msgstr ""
+
+#. [terrain_type]: id=UTP_metal_keep
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:646
+msgid "Metal Keep"
+msgstr ""
+
+#. [terrain_type]: id=UTP_metal_castle
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:660
+msgid "Metal Castle"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_despair_castle
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:674
+msgid "Despair Castle"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_despair_keep
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:686
+msgid "Despair Keep"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_stonewall2
+#. [terrain_type]: id=UTP_bmr_stonewall
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:727
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:738
+msgid "Wall"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_stonewall2
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:728
+msgid "Brass Sculpt Wall"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_stonewall
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:739
+msgid "Curtained Wall"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_icewall
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:748
+msgid "Cave Wall"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_icewall
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:749
+msgid "Icy Cave Wall"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_icecave
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:759
+msgid "Icy Cave Floor"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_icecanyon
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:769
+msgid "Chasm"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_icecanyon
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:770
+msgid "Icy Chasm"
+msgstr ""
+
+#. [terrain_type]: id=UTP_facility1
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:781
+msgid "Industrial Facility"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_primevilla
+#. [terrain_type]: id=UTP_bmr_evilhut
+#. [terrain_type]: id=UTP_drake_snow_village
+#. [terrain_type]: id=UTP_treehouse_village
+#. [terrain_type]: id=UTP_primitive_village
+#. [terrain_type]: id=UTP_primitive_village_ruin
+#. [terrain_type]: id=UTP_primitive_village_frozen
+#. [terrain_type]: id=UTP_desert_village_ruin
+#. [terrain_type]: id=UTP_swamp_village_old
+#. [terrain_type]: id=UTP_city_village_old
+#. [terrain_type]: id=UTP_desert_village_old
+#. [terrain_type]: id=UTP_strat_village
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:792
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:804
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:46
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:252
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:484
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:496
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:508
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:575
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:664
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:677
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:690
+#: UMC_Terrain_Pack/utils/Strat/terrain.cfg:61
+msgid "Village"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_primevilla
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:793
+msgid "Primeval Villa"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_evilhut
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:805
+msgid "Shack Hut"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_path
+#. [terrain_type]: id=UTP_bmr_pathdiag1
+#. [terrain_type]: id=UTP_bmr_pathdiag2
+#. [terrain_type]: id=UTP_bmr_lpath
+#. [terrain_type]: id=UTP_bmr_lpathdiag1
+#. [terrain_type]: id=UTP_bmr_lpathdiag2
+#. [terrain_type]: id=UTP_bmr_rpath
+#. [terrain_type]: id=UTP_bmr_rpathdiag1
+#. [terrain_type]: id=UTP_bmr_rpathdiag2
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:817
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:826
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:835
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:845
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:854
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:863
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:873
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:882
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:891
+msgid "Path"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_path
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:818
+msgid "Path | (both) "
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_pathdiag1
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:827
+msgid "Path / (both) "
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_pathdiag2
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:836
+msgid "Path \\ (both) "
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_lpath
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:846
+msgid "Path | (left only) "
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_lpathdiag1
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:855
+msgid "Path / (left only) "
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_lpathdiag2
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:864
+msgid "Path \\ (left only) "
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_rpath
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:874
+msgid "Path | (right only) "
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_rpathdiag1
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:883
+msgid "Path / (right only) "
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_rpathdiag2
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:892
+msgid "Path \\ (right only) "
+msgstr ""
+
+#. [terrain_type]: id=UTP_tri_oak_dead
+#. [terrain_type]: id=UTP_tri_tree_snow
+#. [terrain_type]: id=UTP_elder_tree
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:901
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:913
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:449
+msgid "Great Tree"
+msgstr ""
+
+#. [terrain_type]: id=UTP_tri_oak_dead
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:902
+msgid "Dead Great Oak"
+msgstr ""
+
+#. [terrain_type]: id=UTP_tri_tree_snow
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:914
+msgid "Winter Great Tree"
+msgstr ""
+
+#. [terrain_type]: id=UTP_tri_unlitfire
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:925
+msgid "Unlit Fire"
+msgstr ""
+
+#. [terrain_type]: id=UTP_vent1
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:936
+msgid "Heat Exchanger"
+msgstr ""
+
+#. [terrain_type]: id=UTP_totss_tables
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:948
+msgid "Table"
+msgstr ""
+
+#. [terrain_type]: id=UTP_engine_tri
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:960
+msgid "Engine"
+msgstr ""
+
+#. [terrain_type]: id=UTP_tri_path
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:973
+msgid "Dirt"
+msgstr ""
+
+#. [terrain_type]: id=UTP_tri_path
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:974
+msgid "Frozen Dirt"
+msgstr ""
+
+#. [terrain_type]: id=UTP_aa_drymounts
+#. [terrain_type]: id=UTP_arid_mountains
+#. [terrain_type]: id=UTP_cloud_arid
+#. [terrain_type]: id=UTP_lunar_mountains
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:983
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:641
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:651
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:772
+msgid "Mountains"
+msgstr ""
+
+#. [terrain_type]: id=UTP_aa_drymounts
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:984
+msgid "Sandstone Mountains"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bmr_mtent
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:993
+msgid "Metallic Tent"
+msgstr ""
+
+#. [terrain_type]: id=UTP_totss_ruintower
+#. [terrain_type]: id=UTP_totss_ruinliltower
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:1004
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:1014
+msgid "Ruins"
+msgstr ""
+
+#. [terrain_type]: id=phan2_closed-door
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:1024
+msgid "Closed Door"
+msgstr ""
+
+#. [terrain_type]: id=phan2_open-door
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:1034
+msgid "Open Door"
+msgstr ""
+
+#. [terrain_type]: id=UTP_phan2_window1
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:1044
+msgid "Window"
+msgstr ""
+
+#. [terrain_type]: id=UTP_phan2_tower
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:1054
+msgid "Tower"
+msgstr ""
+
+#. [terrain_type]: id=UTP_phan3_tower
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:1063
+msgid "Towerfront"
+msgstr ""
+
+#. [terrain_type]: id=UTP_phan2_top
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:1072
+msgid "Tower Platform"
+msgstr ""
+
+#. [terrain_type]: id=UTP_forest_fire
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:1081
+msgid "Forest Fire"
+msgstr ""
+
+#. [terrain_type]: id=UTP_forest_fire
+#: UMC_Terrain_Pack/utils/Archaic_Resources/AR_terrain.cfg:1082
+msgid "Forest Fire (UTP) "
+msgstr ""
+
+#. [terrain_type]: id=UTP_overlay-pit
+#. [terrain_type]: id=UTP_dark-hive-floor
+#. [terrain_type]: id=UTP_dark-hive-surface
+#. [terrain_type]: id=UTP_dark-hive-lair
+#: UMC_Terrain_Pack/utils/IftU/terrain-virtual.cfg:9
+#: UMC_Terrain_Pack/utils/IftU/terrain.cfg:28
+#: UMC_Terrain_Pack/utils/IftU/terrain.cfg:37
+#: UMC_Terrain_Pack/utils/IftU/terrain.cfg:46
+msgid "Dark Hive"
+msgstr ""
+
+#. [terrain_type]: id=UTP_overlay-flat
+#: UMC_Terrain_Pack/utils/IftU/terrain-virtual.cfg:54
+msgid "Flat Overlay"
+msgstr ""
+
+#. [terrain_type]: id=UTP_overlay-rough
+#: UMC_Terrain_Pack/utils/IftU/terrain-virtual.cfg:66
+msgid "Rough Overlay"
+msgstr ""
+
+#. [terrain_type]: id=UTP_overlay-ground-cracked
+#: UMC_Terrain_Pack/utils/IftU/terrain-virtual.cfg:77
+msgid "Cracked Ground"
+msgstr ""
+
+#. [terrain_type]: id=UTP_wasteland_iftu
+#: UMC_Terrain_Pack/utils/IftU/terrain.cfg:15
+msgid "Wasteland (IftU) "
+msgstr ""
+
+#. [terrain_type]: id=UTP_dark-hive-floor
+#: UMC_Terrain_Pack/utils/IftU/terrain.cfg:29
+msgid "Dark Hive Floor"
+msgstr ""
+
+#. [terrain_type]: id=UTP_dark-hive-surface
+#: UMC_Terrain_Pack/utils/IftU/terrain.cfg:38
+msgid "Dark Hive Surface"
+msgstr ""
+
+#. [terrain_type]: id=UTP_dark-hive-lair
+#: UMC_Terrain_Pack/utils/IftU/terrain.cfg:47
+msgid "Dark Hive Lair"
+msgstr ""
+
+#. [terrain_type]: id=UTP_abyss-volcanic
+#: UMC_Terrain_Pack/utils/IftU/terrain.cfg:63
+msgid "Volcanic Chasm"
+msgstr ""
+
+#. [terrain_type]: id=UTP_earthy_rocky_cave
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:7
+msgid "Rockbound Cave"
+msgstr ""
+
+#. [terrain_type]: id=UTP_earthy_rocky_cave
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:8
+msgid "Earthy Rockbound Cave"
+msgstr ""
+
+#. [terrain_type]: id=UTP_blood_lake
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:19
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:20
+msgid "Blood"
+msgstr ""
+
+#. [terrain_type]: id=UTP_dry_grassland_elven_castle
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:32
+msgid "Dry Elven Castle"
+msgstr ""
+
+#. [terrain_type]: id=UTP_drake_snow_village
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:47
+msgid "Snowy Drake Village"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bw_water_keep
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:59
+msgid "Water Keep"
+msgstr ""
+
+#. [terrain_type]: id=UTP_bw_water_keep
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:60
+msgid "Water Encampment Keep"
+msgstr ""
+
+#. [terrain_type]: id=UTP_temple_castle
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:74
+msgid "Ruined Temple"
+msgstr ""
+
+#. [terrain_type]: id=UTP_temple_castle
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:75
+msgid "Temple Remains (Temple Castle) "
+msgstr ""
+
+#. [terrain_type]: id=UTP_temple_keep
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:85
+msgid "Ruined Altar"
+msgstr ""
+
+#. [terrain_type]: id=UTP_temple_keep
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:86
+msgid "Altar Remains (Temple Keep) "
+msgstr ""
+
+#. [terrain_type]: id=UTP_arajunnan_bridge
+#. [terrain_type]: id=UTP_arajunnan_bridgediag1
+#. [terrain_type]: id=UTP_arajunnan_bridgediag2
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:101
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:113
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:125
+msgid "Sandstone Bridge"
+msgstr ""
+
+#. [terrain_type]: id=UTP_arctic_wasteland
+#. [terrain_type]: id=UTP_volcanic_wasteland
+#. [terrain_type]: id=UTP_wasteland
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:138
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:157
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:179
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:180
+msgid "Wasteland"
+msgstr ""
+
+#. [terrain_type]: id=UTP_arctic_wasteland
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:139
+msgid "Arctic Wasteland"
+msgstr ""
+
+#. [terrain_type]: id=UTP_ice_shards
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:148
+msgid "Ice Crystals"
+msgstr ""
+
+#. [terrain_type]: id=UTP_volcanic_wasteland
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:158
+msgid "Volcanic Wasteland"
+msgstr ""
+
+#. [terrain_type]: id=UTP_power_source_blue_flame
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:167
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:168
+msgid "Power Source"
+msgstr ""
+
+#. [terrain_type]: id=UTP_dark_castle
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:190
+msgid "Dark Castle"
+msgstr ""
+
+#. [terrain_type]: id=UTP_dark_keep
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:202
+msgid "Dark Keep"
+msgstr ""
+
+#. [terrain_type]: id=UTP_sandstones_dark
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:217
+msgid "Sandstone Road"
+msgstr ""
+
+#. [terrain_type]: id=UTP_desert_village_pyramid
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:239
+msgid "Pyramid"
+msgstr ""
+
+#. [terrain_type]: id=UTP_desert_village_pyramid
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:240
+msgid "Desert Pyramid"
+msgstr ""
+
+#. [terrain_type]: id=UTP_treehouse_village
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:253
+msgid "Treehouse Village"
+msgstr ""
+
+#. [terrain_type]: id=UTP_crystal_castle
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:266
+msgid "Crystal Castle"
+msgstr ""
+
+#. [terrain_type]: id=UTP_crystal_keep
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:278
+msgid "Crystal Keep"
+msgstr ""
+
+#. [terrain_type]: id=UTP_saharan_dunes
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:291
+msgid "Dunes"
+msgstr ""
+
+#. [terrain_type]: id=UTP_saharan_dunes
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:292
+msgid "Saharan Dunes"
+msgstr ""
+
+#. [terrain_type]: id=UTP_carpetfloor
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:301
+msgid "Carpet"
+msgstr ""
+
+#. [terrain_type]: id=UTP_carpetfloor
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:304
+msgid "Red Carpet"
+msgstr ""
+
+#. [terrain_type]: id=UTP_desert_obelisk
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:313
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:314
+msgid "Obelisk"
+msgstr ""
+
+#. [terrain_type]: id=UTP_monolith
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:325
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:326
+msgid "Monolith"
+msgstr ""
+
+#. [terrain_type]: id=UTP_human_ship
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:336
+msgid "Supply Ship"
+msgstr ""
+
+#. [terrain_type]: id=UTP_human_ship
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:337
+msgid "Human Ship"
+msgstr ""
+
+#. [terrain_type]: id=UTP_serpent_fountain
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:349
+msgid "Serpent Fountain"
+msgstr ""
+
+#. [terrain_type]: id=UTP_round_fountain
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:359
+msgid "Round Fountain"
+msgstr ""
+
+#. [terrain_type]: id=UTP_mangrove
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:369
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:370
+msgid "Mangrove"
+msgstr ""
+
+#. [terrain_type]: id=UTP_troll_ramparts
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:384
+msgid "Troll Ramparts"
+msgstr ""
+
+#. [terrain_type]: id=UTP_brick_castle
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:399
+msgid "Brick Castle"
+msgstr ""
+
+#. [terrain_type]: id=UTP_brick_keep
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:411
+msgid "Brick Keep"
+msgstr ""
+
+#. [terrain_type]: id=UTP_residential_forest
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:424
+msgid "Urban Jungle"
+msgstr ""
+
+#. [terrain_type]: id=UTP_residential_forest
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:425
+msgid "Residential Area"
+msgstr ""
+
+#. [terrain_type]: id=UTP_residential_village
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:437
+msgid "City Building"
+msgstr ""
+
+#. [terrain_type]: id=UTP_residential_village
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:438
+msgid "Community Building"
+msgstr ""
+
+#. [terrain_type]: id=UTP_elder_tree
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:450
+msgid "Swamp Great Tree"
+msgstr ""
+
+#. [terrain_type]: id=UTP_gold
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:461
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:462
+msgid "Treasury"
+msgstr ""
+
+#. [terrain_type]: id=UTP_mech_village
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:472
+msgid "Bunker"
+msgstr ""
+
+#. [terrain_type]: id=UTP_mech_village
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:473
+msgid "Metal Bunker"
+msgstr ""
+
+#. [terrain_type]: id=UTP_primitive_village
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:485
+msgid "Primitive Village"
+msgstr ""
+
+#. [terrain_type]: id=UTP_primitive_village_ruin
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:497
+msgid "Ruined Primitive Village"
+msgstr ""
+
+#. [terrain_type]: id=UTP_primitive_village_frozen
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:509
+msgid "Snowed Primitive Village"
+msgstr ""
+
+#. [terrain_type]: id=UTP_ricefield
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:521
+msgid "Rice Field"
+msgstr ""
+
+#. [terrain_type]: id=UTP_dike
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:530
+msgid "Dike"
+msgstr ""
+
+#. [terrain_type]: id=UTP_pen
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:539
+msgid "Animal Pen"
+msgstr ""
+
+#. [terrain_type]: id=UTP_wall_wooden
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:550
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:551
+msgid "Wooden Wall"
+msgstr ""
+
+#. [terrain_type]: id=UTP_camp_sunken
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:562
+msgid "Sunken Encampment"
+msgstr ""
+
+#. [terrain_type]: id=UTP_desert_village_ruin
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:576
+msgid "Ruined Adobe Village"
+msgstr ""
+
+#. [terrain_type]: id=UTP_aquatic_camp
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:589
+msgid "Aquatic Encampment"
+msgstr ""
+
+#. [terrain_type]: id=UTP_aquatic_camp_keep
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:602
+msgid "Aquatic Encampment Keep"
+msgstr ""
+
+#. [terrain_type]: id=UTP_aquatic_castle
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:615
+msgid "Aquatic Castle"
+msgstr ""
+
+#. [terrain_type]: id=UTP_aquatic_keep
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:628
+msgid "Aquatic Keep"
+msgstr ""
+
+#. [terrain_type]: id=UTP_arid_mountains
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:642
+msgid "Arid Mountains"
+msgstr ""
+
+#. [terrain_type]: id=UTP_cloud_arid
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:652
+msgid "Arid Impassable Mountains"
+msgstr ""
+
+#. [terrain_type]: id=UTP_swamp_village_old
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:665
+msgid "Swamp Village (old) "
+msgstr ""
+
+#. [terrain_type]: id=UTP_city_village_old
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:678
+msgid "Human City (old) "
+msgstr ""
+
+#. [terrain_type]: id=UTP_desert_village_old
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:691
+msgid "Adobe Village (old) "
+msgstr ""
+
+#. [terrain_type]: id=UTP_tropical_forest_old
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:704
+msgid "Tropical Forest (old) "
+msgstr ""
+
+#. [terrain_type]: id=UTP_ford_old
+#. [terrain_type]: id=UTP_ford_cave
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:715
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:879
+msgid "Ford"
+msgstr ""
+
+#. [terrain_type]: id=UTP_ford_old
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:716
+msgid "Ford (old) "
+msgstr ""
+
+#. [terrain_type]: id=UTP_lunar_sand
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:728
+msgid "Moon"
+msgstr ""
+
+#. [terrain_type]: id=UTP_lunar_sand
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:729
+msgid "Moon Surface"
+msgstr ""
+
+#. [terrain_type]: id=UTP_lunar_crater
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:750
+msgid "Crater"
+msgstr ""
+
+#. [terrain_type]: id=UTP_lunar_crater
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:751
+msgid "Moon Crater"
+msgstr ""
+
+#. [terrain_type]: id=UTP_lunar_hills
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:761
+msgid "Hills"
+msgstr ""
+
+#. [terrain_type]: id=UTP_lunar_hills
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:762
+msgid "Moon Hills"
+msgstr ""
+
+#. [terrain_type]: id=UTP_lunar_mountains
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:773
+msgid "Moon Mountains"
+msgstr ""
+
+#. [terrain_type]: id=UTP_deep_water_cave
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:856
+msgid "Deep Flooded Cave"
+msgstr ""
+
+#. [terrain_type]: id=UTP_shallow_water_cave
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:868
+msgid "Flooded Cave"
+msgstr ""
+
+#. [terrain_type]: id=UTP_ford_cave
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:880
+msgid "Cave Ford"
+msgstr ""
+
+#. [terrain_type]: id=UTP_banner_uria
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:892
+msgid "Banner (Uria) "
+msgstr ""
+
+#. [terrain_type]: id=UTP_banner_yechnagoth
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:901
+msgid "Banner (Yechnagoth) "
+msgstr ""
+
+#. [terrain_type]: id=UTP_moss
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:910
+msgid "Moss \\ "
+msgstr ""
+
+#. [terrain_type]: id=UTP_moss_2
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:918
+msgid "Moss / "
+msgstr ""
+
+#. [terrain_type]: id=UTP_canyon
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:930
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:931
+msgid "Canyon"
+msgstr ""
+
+#. [terrain_type]: id=UTP_burned_human_village
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:940
+msgid "Burned Village"
+msgstr ""
+
+#. [terrain_type]: id=UTP_burned_human_village
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:941
+msgid "Burned Human Village"
+msgstr ""
+
+#. [terrain_type]: id=UTP_cliffs_n
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:953
+msgid "Cliffs (facing N) "
+msgstr ""
+
+#. [terrain_type]: id=UTP_cliffs_s
+#: UMC_Terrain_Pack/utils/Misc/misc-terrains.cfg:962
+msgid "Cliffs (facing S) "
+msgstr ""
+
+#. [terrain_type]: id=UTP_strat_flat
+#: UMC_Terrain_Pack/utils/Strat/terrain.cfg:5
+msgid "Flat"
+msgstr ""
+
+#. [terrain_type]: id=UTP_strat_water
+#: UMC_Terrain_Pack/utils/Strat/terrain.cfg:13
+msgid "Water"
+msgstr ""
+
+#. [terrain_type]: id=UTP_strat_forest
+#: UMC_Terrain_Pack/utils/Strat/terrain.cfg:21
+msgid "Wood"
+msgstr ""
+
+#. [terrain_type]: id=UTP_strat_hill
+#: UMC_Terrain_Pack/utils/Strat/terrain.cfg:29
+msgid "Hill"
+msgstr ""
+
+#. [terrain_type]: id=UTP_strat_harsh
+#: UMC_Terrain_Pack/utils/Strat/terrain.cfg:37
+msgid "Harsh"
+msgstr ""
+
+#. [terrain_type]: id=UTP_strat_mountain
+#: UMC_Terrain_Pack/utils/Strat/terrain.cfg:45
+msgid "Mountain"
+msgstr ""
+
+#. [terrain_type]: id=UTP_strat_swamp
+#: UMC_Terrain_Pack/utils/Strat/terrain.cfg:53
+msgid "Swamp"
+msgstr ""
+
+#. [terrain_type]: id=UTP_strat_city
+#: UMC_Terrain_Pack/utils/Strat/terrain.cfg:71
+msgid "City"
+msgstr ""
+
+#. [terrain_type]: id=UTP_strat_river_1
+#: UMC_Terrain_Pack/utils/Strat/terrain.cfg:115
+msgid "River"
+msgstr ""
+
+#. [editor_group]: id=UMC_Terrain_Pack_AR
+#: UMC_Terrain_Pack/_main.cfg:15
+msgid "UTP Archaic Resources"
+msgstr ""
+
+#. [editor_group]: id=UMC_Terrain_Pack_IftU
+#: UMC_Terrain_Pack/_main.cfg:20
+msgid "UTP IftU"
+msgstr ""
+
+#. [editor_group]: id=UMC_Terrain_Pack_Strat
+#: UMC_Terrain_Pack/_main.cfg:25
+msgid "UTP Strategy Map"
+msgstr ""
+
+#. [editor_group]: id=UMC_Terrain_Pack_Misc
+#: UMC_Terrain_Pack/_main.cfg:30
+msgid "UTP Misc"
+msgstr ""
+
+#. [editor_group]: id=UMC_Terrain_Pack_Legacy
+#: UMC_Terrain_Pack/_main.cfg:35
+msgid "UTP 1.13 backports and legacy stuff"
+msgstr ""
+
+#. [editor_group]: id=UMC_Terrain_Pack_Lunar
+#: UMC_Terrain_Pack/_main.cfg:40
+msgid "UTP Moon Terrain"
+msgstr ""
+

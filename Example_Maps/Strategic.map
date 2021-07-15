@@ -1,0 +1,23 @@
+border_size=1
+usage=map
+
+ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZShi, ZSmo, ZSmo, ZSmo, ZShi, ZShi, ZSmo, ZShi, ZSmo
+ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZShi, ZSmo, ZSmo, ZSmo, ZShi, ZSmo, ZSmo, ZSmo
+ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSwo, ZSfl, ZSwo, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZShi, ZSmo, ZSmo, ZSmo, ZSmo, ZSmo, ZSmo
+ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSfl, ZSfl, ZSfl, ZSwo, ZSwo, ZSwo, ZSwo, ZSwo, ZSwo, ZSwo, ZSwo, ZSwo, ZSwo, ZSwo, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZShi, ZSmo, ZSmo, ZSmo, ZSfl, ZSfl
+ZSwa, ZSwa, ZSwa, ZSwa, ZSfl, ZSfl, ZSfl, ZSfl, ZSwo, ZSwo, ZSwo, ZSwo, ZSwo, ZSwo, ZSwo, ZSwo, ZSwo, ZSwo, ZSwo, ZSwo, ZSfl, ZSfl, ZSfl, ZSfl, ZSwa, ZSfl, ZSfl, ZSfl, ZSfl, ZSmo, ZSmo, ZSfl, ZSfl, ZSfl
+ZSwa, ZSwa, ZSwa, ZSwa, ZSfl, ZSfl, ZSfl^ZSci, ZSfl, ZSfl, ZSwo, ZSwo, ZSwo, ZSwo, ZSwo, ZSwo, ZSwo, ZSwo, ZSwo, ZSwo, ZSwo, ZSfl, ZSfl, ZSwa, ZSwa, ZSwa, ZSfl, ZSfl, ZSfl, ZSfl, ZShi, ZSmo, ZSmo, ZSfl, ZSfl
+ZSwa, ZSwa, ZSwa, ZSwa, ZSfl, ZSfl, ZSfl, ZSfl^ZSr\, ZSfl^ZSr\, ZSfl, ZSfl, ZSwo, ZSfl, ZSfl, ZSfl^ZSw/, ZSfl, ZSfl, ZSfl, ZSfl^ZSci, ZSfl, ZSfl^ZSw/, ZSwa^ZSw/, ZSwa, ZSwa, ZSwa, ZSwa, ZSfl, ZSfl, ZSfl, ZShi, ZSmo, ZSmo, ZSfl, ZSfl
+ZSwa, ZSwa, ZSwa, ZSwa, ZSfl, ZSfl, ZSfl^ZSw/, ZSfl, ZSfl, ZSfl^ZSr\, ZSfl^ZSr\, ZSfl, ZSfl^ZSw/, ZSfl^ZSw/, ZSfl, ZSfl^ZSw\, ZSfl^ZSw\, ZSfl, ZSfl^ZSw/, ZSfl^ZSw/, ZSfl, ZSfl, ZSwa, ZSfl^ZSca, ZSwa, ZSwa, ZSfl, ZSfl, ZSfl, ZShi, ZShi, ZSmo, ZSfl, ZSfl
+ZSwa, ZSwa, ZSwa, ZSwa, ZSwa^ZSw/, ZSfl^ZSw/, ZSfl, ZSfl^ZSw\, ZSfl^ZSw\, ZSfl, ZSfl^ZSw/, ZSfl^ZSw/, ZSfl^ZSr\, ZSfl, ZSfl, ZSfl, 1 ZSfl, ZSfl^ZSw\, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSwa, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl
+ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl^ZSw\, ZSfl, ZSfl, ZSfl^ZSr|, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, 2 ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl
+ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl^ZSr|, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl^ZSci, ZSfl, ZSfl, ZSfl, ZSfl
+ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl^ZSci, ZSfl^ZSr|, ZSfl, ZSfl, ZSfl, ZSwo, ZSfl, ZSwo, ZSwo, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl
+ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl^ZSr|, ZSfl, ZSfl, ZSwo, ZSwo, ZSwo, ZSwo, ZSwo, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSsw, ZSsw, ZSsw, ZSsw, ZSfl, ZSsw, ZSsw, ZSsw, ZSfl
+ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl^ZSr|, ZSfl, ZSfl, ZSfl, ZSwo, ZSwo, ZSwo, ZSwo, ZSfl, ZSfl, ZSfl, ZSfl^ZSvi, ZSfl, ZSfl, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSfl
+ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSfl, ZSfl, ZSfl, ZSfl^ZSr|, ZSfl^ZSvi, ZSfl, ZSwo, ZSfl, ZSwo, ZSfl, ZSwo, ZSfl, ZSfl, ZSfl^ZSr/, ZSfl^ZSr|, ZSfl, ZSfl, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw
+ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSfl, ZSfl, ZSfl^ZSr|, ZSfl, ZSfl, ZSfl, ZSfl^ZSr/, ZSfl^ZSr/, ZSfl^ZSr\, ZSfl, ZSfl^ZSr/, ZSfl^ZSr/, ZSfl, ZSfl, ZSfl, ZSfl, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw
+ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSfl, ZSfl, ZSfl^ZSr\, ZSfl^ZSr|, ZSfl^ZSr/, ZSfl, ZSfl, ZSfl, ZSfl^ZSr\, ZSfl^ZSvi, ZSfl, ZSfl, ZSfl, ZSfl, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw
+ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSfl, ZSfl, ZSfl, ZSfl^ZSr|, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw
+ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSfl, ZSfl, ZSfl, ZSfl^ZSr|, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw
+ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSwa, ZSfl, ZSfl, ZSfl^ZSr|, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSfl, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw, ZSsw
